@@ -1,0 +1,394 @@
+h2
+{
+    font-family: serif;
+    font-style: normal;
+}
+body
+{
+  background-color:black;
+  margin: 5px;
+}
+.apjimg
+{
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-left: 50px;
+}
+
+.apjh1
+{
+  margin-top: 0;
+  margin-left: 50px;
+  color: yellow;
+  
+}
+.apjp
+{
+   font-family: sans-serif;
+   font-weight: bolder;
+   color: blue;
+   text-align: center;
+   font-size: 40px;
+   margin-top: auto;
+
+}
+
+.sucess
+{
+  clear: left;
+  background-color:blue;
+  height: 360px;
+  width: 350px;
+  position: absolute;
+  left: 150px;
+  margin: 0;
+  box-shadow: 10px 5px 5px gray;
+
+}
+li
+{
+  color:  rgb(255, 255, 128);
+  line-height: 2.5;
+  font-size: 21px;
+  font-family: sans-serif;
+}
+.selfconfidence
+{
+  background-color:blue;
+  height: 360px;
+  width: 350px;
+  position:absolute;
+ right: 150px;
+  margin: 0;
+  float: right;
+  box-shadow: 10px 5px 5px  gray;
+}  
+span
+{
+   background-color: black;
+}
+.firstpageh3
+{
+  font-family: serif;
+  font-size:x-large;
+  text-align:start;
+  color: yellow;
+  
+}
+.firstpage
+{
+    
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 128);
+    position:relative;
+    
+}
+.secondpage
+{
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  background-color:rgb(51, 51, 255);
+  position: relative;
+
+
+}
+.positiveh1
+{
+  color: blue;
+
+}
+.positivebox1
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 100px;
+}
+.positivebox1:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox2
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 300px;
+}
+.positivebox2:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox3
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 500px;
+}
+.positivebox3:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox4
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 700px;
+}
+.positivebox4:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox5
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 900px;
+}
+.positivebox5:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox6
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 1100px;
+}
+.positivebox6:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox7
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 100px;
+  top:250px;
+  
+}
+.positivebox7:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox8
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+.positivebox8:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox9
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 500px;
+  top: 250px;
+}
+.positivebox9:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox10
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 700px;
+  top: 250px;
+}
+.positivebox10:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox11
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 900px;
+  top: 250px;
+}
+.positivebox11:hover
+{
+  transition:1s;
+  transform: scale(2);
+  
+}
+.positivebox12
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 1100px;
+  top: 250px;
+}
+.positivebox12:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox13
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 100px;
+  top: 450px;
+}
+.positivebox13:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox14
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 300px;
+  top: 450px;
+
+}
+.positivebox14:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox15
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 500px;
+  top: 450px;
+}
+.positivebox15:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox16
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 700px;
+  top: 450px;
+}
+.positivebox16:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox17
+{
+  height: 100px;
+  width: 120px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 900px;
+  top: 450px;
+}
+.positivebox17:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+.positivebox18
+{
+  height: 105px;
+  width: 125px;
+  background-color: yellow;
+  transition:1s;
+  position: absolute;
+  left: 1100px;
+  top: 450px;
+}
+.positivebox18:hover
+{
+  transition:1s;
+  transform: scale(2); 
+}
+p
+{
+  font-weight: bolder;
+ font-size:10px;
+
+ 
+}
+.thirdpage
+{
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(255, 255, 128);
+  position: relative;
+}
