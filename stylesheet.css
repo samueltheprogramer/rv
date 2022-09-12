@@ -80,7 +80,7 @@ span
 .firstpage
 {
     
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-color: rgb(255, 255, 128);
     position:relative;
@@ -89,7 +89,7 @@ span
 .secondpage
 {
   text-align: center;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-color:rgb(51, 51, 255);
   position: relative;
@@ -388,7 +388,7 @@ p
 .thirdpage
 {
   text-align: center;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   background-color: rgb(255, 255, 128);
   position: relative;
